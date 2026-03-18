@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Gaegu:wght@400;700&family=Comfortaa:wght@300;700&display=swap');
+
+:root {
+  --color-dark: #3E1F1F; /* Warm dark red-brown */
+  --color-forest: #2D5128; /* Deep green */
+  --color-leaf: #8DA750; /* The user's preferred green */
+  --color-moss: #8DA750; /* The user's preferred green */
+  --color-lime: #F5F5DC; /* Beige */
+  --color-accent: #E74C3C; /* Bright red */
+  --font-fun: 'Gaegu', cursive;
+  --font-main: 'Comfortaa', sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--color-lime);
+  color: var(--color-dark);
+  font-family: var(--font-main);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+#root {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
