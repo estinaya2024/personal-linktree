@@ -2,7 +2,7 @@
   "name": "link-react",
   "private": true,
   "version": "0.0.0",
-  "author": "Karou Aya Malak",
+  "author": "aya",
   "type": "module",
   "scripts": {
     "dev": "vite",
