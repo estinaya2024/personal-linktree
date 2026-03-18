@@ -110,7 +110,6 @@ const Background = () => (
     <div className="background-overlay"></div>
     <img src="/background.png" className="background-image" alt="Artistic background" />
     
-    <StaticDecoration src="/heart_landscape.png" className="heart-bg" size={110} />
   </div>
 )
 
