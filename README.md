@@ -1,7 +1,7 @@
 # Aya's Artistic Link-in-Bio 
 
-A custom-designed, stable, and "cute" personal hub built with React and TypeScript. This project features a hand-placed nature aesthetic with a curated Red, Green (#8DA750), and Beige color palette.
-
+A custom-designed, stable, and "cute" personal hub built with React and TypeScript.
+> **[VIEW LIVE DEMO](https://personal-linktree-l6lr.vercel.app)** 
 
 ##  Getting Started
 
