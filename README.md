@@ -1,9 +1,9 @@
-# Aya's Artistic Link-in-Bio 🌿✨
+# Aya's Artistic Link-in-Bio 
 
 A custom-designed, stable, and "cute" personal hub built with React and TypeScript. This project features a hand-placed nature aesthetic with a curated Red, Green (#8DA750), and Beige color palette.
 
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js installed on your system.
@@ -21,4 +21,4 @@ npm run build
 This generates a `dist/` folder ready for any static hosting provider.
 
 ---
-*Developed by aya* 🎨
+*Developed by aya* 
